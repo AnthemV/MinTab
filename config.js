@@ -27,15 +27,19 @@ const LIST_ITEMS = [
     link: "https://music.youtube.com"
   },
   {
-    name: "netflix",
-    link: "https://www.netflix.com/"
+    name: "reroll",
+    link: "https://app.reroll.co/select-character/"
   },
   {
-    name: "r/unixporn",
-    link: "https://www.reddit.com/r/unixporn/"
+    name: "tarrasque.io",
+    link: "https://tarrasque.io/b/"
   },
   {
-    name: "r/firefoxcss",
-    link: "https://www.reddit.com/r/firefoxcss/"
+    name: "protondb",
+    link: "https://www.protondb.com/"
+  },
+   {
+    name: "steamgriddb",
+    link: "https://www.steamgriddb.com/"
   },
 ]
