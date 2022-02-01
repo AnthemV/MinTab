@@ -1,5 +1,5 @@
 const CONFIG = {
-  hour12  : false
+  hour12  : true
 }
 
 const ICONS = [
@@ -23,12 +23,12 @@ const ICONS = [
 
 const LIST_ITEMS = [
   {
-    name: "music",
-    link: "https://music.youtube.com"
-  },
-  {
     name: "reroll",
     link: "https://app.reroll.co/select-character/"
+  },
+  {
+    name: "5etools",
+    link: "https://5e.tools/"
   },
   {
     name: "tarrasque.io",
