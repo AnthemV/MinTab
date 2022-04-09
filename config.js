@@ -8,10 +8,6 @@ const ICONS = [
     link: "https://www.youtube.com/"
   },
   {
-    icon: "ri-whatsapp-fill",
-    link: "https://web.whatsapp.com/"
-  },
-  {
     icon: "ri-reddit-fill",
     link: "https://www.reddit.com/"
   },
@@ -24,7 +20,7 @@ const ICONS = [
 const LIST_ITEMS = [
   {
     name: "reroll",
-    link: "https://app.reroll.co/select-character/"
+    link: "https://app.reroll.co/_top"
   },
   {
     name: "5etools",
@@ -32,7 +28,7 @@ const LIST_ITEMS = [
   },
   {
     name: "tarrasque.io",
-    link: "https://tarrasque.io/b/"
+    link: "https://tarrasque.io/"
   },
   {
     name: "protondb",
